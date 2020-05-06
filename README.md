@@ -1,7 +1,5 @@
 # jobs
 ## Government Listing
-
-## Gov Listing
 - https://smartjob.doe.go.th/Home
 
 ## Community Listing
